@@ -1,0 +1,9 @@
+apiVersion: jujus.kman.in/v1beta1
+kind: JujuOperator
+metadata:
+  labels:
+    controller-tools.k8s.io: "1.0"
+  name: jujuoperator-sample
+spec:
+  # Add fields here
+  foo: bar

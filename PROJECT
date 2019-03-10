@@ -1,0 +1,3 @@
+version: "1"
+domain: kman.in
+repo: github.com/ycliuhw/juju-operator
